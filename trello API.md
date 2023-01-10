@@ -1,1 +1,20 @@
+https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-actions-idaction-reactions-id-get
 
+Actions
+Applications
+Batch
+Boards
+Cards
+Checklists
+CustomFields
+Emoji
+Enterprises
+Labels
+Lists
+Members
+Notifications
+Organizations
+Plugins
+Search
+Tokens
+Webhooks
